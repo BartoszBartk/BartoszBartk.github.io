@@ -1,15 +1,24 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Current research activities
 ---
 
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+#### BonaRes Centre
+My main work currently happens within the BMBF-funded (Federal Ministry of Education and Research) project *BonaRes - Soil as a sustainable resource for a bioeconomy*. The project's homepage with more information, lots of materials and multiple sub-portals (partly still in development) can be found <a href="https://www.bonares.de/">here</a>. My work within BonaRes focuses on governance of agricultural soils, particularly analysis and design of policy instruments.
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+#### Farmers' behaviour
+A central element of my perspective on analysis and design of policy instruments is a proper understanding of the behaviour of relevant actors. In the agri-environmental context, these are especially farmers. In collaboration with multiple colleagues at the UFZ, we are currently working on synthesising empirical (see Bartkowski and Bartke 2018) and theoretical knowledge about the determinants of European farmers' behaviour. In addition, I am collaborating with three colleagues to shed more light into the role of German farmers' identity and their image of a "good farmer", and how this influences their behaviour.
+
+#### Agent-based modelling
+Within and beyond BonaRes, I am trying to expand my own portfolio of methods by learning and finally applying agent-based modelling (ABM) approaches. Given my focus on agri-environmental land-use policy and my great interest in behavioural research informing policy design, ABM is quite well a fit. Also, it provides great opportunities to combine social/economic with biophysical models to tackle policy-relevant questions from an interdisciplinary perspective. In this context, I am collaborating with colleagues from the UFZ to think about 
+
+#### Governance of CRISPR
+An ongoing interest of mine is the societal role of agricultural tech innovations. In this context, I collaborated with colleagues from the universities of Halle-Wittenberg, Kassel and Bonn to provide some mainly conceptual insights into the economics, ethics and governance of CRISPR-based genome editing of food crops (see Bartkowski et al. 2018, Pirscher et al. 2018, Bartkowski 2019). A paper, in which a Chad Baum and I use Albert Hirschman's famous exit-voice framework to analyse the governance and legitimacy of genome-edited food, is currently under review.
+
+<!-- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) -->
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
