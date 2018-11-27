@@ -68,13 +68,14 @@ description: Publications
 </ol>
 #### Blogs etc.:
 <ol>
-<li>Regular contributions on Skeptische Ökonomie</li>
-<li>Ecological Economics, Exploring Economics, 2016</li>
-<li>Wem gehört der Boden? Eine institutionenökonomische Perspektive auf Boden-Ökosystemleistungen. ESP-DE, 2018</li>
-<li>Warum ein vielfältiges Ökosystem ökonomisch wertvoller ist. ESP-DE, 2017</li>
-<li>Der Wert von Biodiversität als Ausdruck unseres Wissens. Umweltforsch, UFZ, 2015</li>
-<li>Anthropozentrismus oder Über die unbegründete Dämonisierung von Konzepten. Umweltforsch, UFZ, 2014</li>
-<li>Ökonomische Bewertung der Natur – die Wurzel alles Bösen? Umweltforsch, UFZ, 2014</li>
+<li>Regular contributions on <a href="https://skeptischeoekonomie.wordpress.com">Skeptische Ökonomie</a></li>
+<li>Ecological Economics, <a href="https://www.exploring-economics.org/en/">Exploring Economics</a>, 2016</li>
+<li><a href="http://www.esp-de.de/wem-gehoert-der-boden/">Wem gehört der Boden? Eine institutionenökonomische Perspektive auf Boden-Ökosystemleistungen</a>. ESP-DE, 2018</li>
+<li><a href="http://www.esp-de.de/warum-ein-vielfaeltiges-oekosystem-oekonomisch-wertvoller-ist/">Warum ein vielfältiges Ökosystem ökonomisch wertvoller ist</a>. ESP-DE, 2017</li>
+<li><a href="https://scilogs.spektrum.de/umweltforsch/der-wert-biodiversitaet-ausdruck-unwissens/">Der Wert von Biodiversität als Ausdruck unseres Wissens</a>. Umweltforsch, UFZ, 2015</li>
+<li><a href="https://scilogs.spektrum.de/umweltforsch/anthropozentrismus-oder-ueber-die-unbegruendete-daemonisierung-von-konzepten/">Anthropozentrismus oder Über die unbegründete Dämonisierung von Konzepten</a>. Umweltforsch, UFZ, 2014</li>
+<li><a href="https://scilogs.spektrum.de/umweltforsch/oekonomische-bewertung-natur-wurzel-boesen/">Ökonomische Bewertung der Natur – die Wurzel alles Bösen?</a> Umweltforsch, UFZ, 2014</li>
 </ol>
 #### Reviewer activity:
 Science Advances, Nature Communications, Environmental Values, Regional Environmental Change, Sustainability, Journal of Environmental Planning and Management, Ecosystems and People (formerly International Journal of Biodiversity Science, Ecosystem Services & Management), Behavioral Public Policy, Journal of Applied Ecology, Public Administration, Ecosystem Services, Ecological Economics, Biological Conservation, Ocean & Coastal Management, Journal of Environmental Management
+<a href="https://publons.com/author/1270943/bartosz-bartkowski#profile">Publons profile</a>
