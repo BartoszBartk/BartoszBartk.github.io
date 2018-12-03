@@ -6,7 +6,7 @@ description: Publications
 
 #### Peer-reviewed journals:
 <ol>
-<li>Schaafsma, M., Bartkowski, B., Lienhoop, N., 2018. <i>Guidance for Deliberative Monetary Valuation studies</i>. International Review of Environmental and Resource Economics 12: 1–56. doi:<a href="https://doi.org/10.1561/101.00000103">10.1561/101.00000103</a></li>
+<li>Schaafsma, M., Bartkowski, B., Lienhoop, N., 2018. <i>Guidance for Deliberative Monetary Valuation studies</i>. International Review of Environmental and Resource Economics 12(2-3): 267–323. doi:<a href="https://doi.org/10.1561/101.00000103">10.1561/101.00000103</a></li>
 <li>Bartkowski, B., Bartke, S., 2018. <i>Leverage points for governing agricultural soils: a review of empirical studies of European farmers’ decision-making</i>. Sustainability 10(9): 3179. doi:<a href="https://doi.org/10.3390/su10093179">10.3390/su10093179</a></li>
 <li>Bartkowski, B., Theesfeld, I., Pirscher, F., Timaeus, J., 2018. <i>Snipping around for food: Economic, ethical and policy implications of CRISPR/Cas genome editing</i>. Geoforum 96C: 172–180. doi:<a href="https://doi.org/10.1016/j.geoforum.2018.07.017">10.1016/j.geoforum.2018.07.017</a></li>
 <li>Bartkowski, B., Hansjürgens, B., Möckel, S., Bartke, S., 2018. <i>Institutional economics of agricultural soil ecosystem services</i>. Sustainability 10(7): 2447. doi:<a href="https://doi.org/10.3390/su10072447">10.3390/su10072447</a></li>
