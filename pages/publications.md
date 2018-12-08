@@ -3,6 +3,7 @@ layout: page
 title: Publications
 description: Publications
 ---
+If you are interested in any of my publications, but don't have access to it - feel free to <a href="mailto:bartosz.bartkowski@ufz.de">email me</a>; I am usually rather quick to respond.
 
 #### Peer-reviewed journals:
 <ol>

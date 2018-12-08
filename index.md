@@ -23,7 +23,7 @@ I am not on the job market right now. Just showing off.
     <div class="row-fluid">
         <div class="span5">
             Bartosz Bartkowski<br/>
-            Email: bartosz.bartkowski@ufz.de<br/>
+            Email: <a href="mailto:bartosz.bartkowski@ufz.de">bartosz.bartkowski@ufz.de</a><br/>
         </div>
 
         <div class="span2">
