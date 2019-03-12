@@ -7,6 +7,7 @@ If you are interested in any of my publications, but don't have access to it - f
 
 #### Peer-reviewed journals:
 <ol>
+<li>Bartkowski, B., Baum, C.M., 2019. Dealing with rejection: An application of the exit–voice framework to genome-edited food. Frontiers in Bioengineering and Biotechnology 7. doi:<a href="https://doi.org/10.3389/fbioe.2019.00057">10.3389/fbioe.2019.00057</a></li>
 <li>Förster, J., Schmidt, S., Bartkowski, B., Lienhoop, N., Albert, C., Wittmer, H., 2019. Incorporating environmental costs of ecosystem service loss in political decision making: A synthesis of monetary values for Germany. PLOS ONE 14(2): e0211419. doi:<a href="https://doi.org/10.1371/journal.pone.0211419">10.1371/journal.pone.0211419</a></li>
 <li>Schaafsma, M., Bartkowski, B., Lienhoop, N., 2018. Guidance for Deliberative Monetary Valuation studies. International Review of Environmental and Resource Economics 12(2-3): 267–323. doi:<a href="https://doi.org/10.1561/101.00000103">10.1561/101.00000103</a></li>
 <li>Bartkowski, B., Bartke, S., 2018. Leverage points for governing agricultural soils: a review of empirical studies of European farmers’ decision-making. Sustainability 10(9): 3179. doi:<a href="https://doi.org/10.3390/su10093179">10.3390/su10093179</a></li>
