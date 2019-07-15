@@ -39,8 +39,9 @@ If you are interested in any of my publications, but don't have access to it - f
 </ol>
 #### Book chapters:
 <ol>
-<li>Bartkowski, B., in press. CRISPR/Cas, Precaution and Democracy: The Challenging Governance of a Rapidly Changing Technology, in: Dürnberger, C., Pfeilmeier, S., Schleissing, S. (Eds.), Genome Editing in Agriculture. Between Precaution and Responsibility. Nomos. ISBN 978-3-8487-5518-9. Pp. 181–198.</li>
+<li>Bartkowski, B., 2019. CRISPR/Cas, Precaution and Democracy: The Challenging Governance of a Rapidly Changing Technology, in: Dürnberger, C., Pfeilmeier, S., Schleissing, S. (Eds.), Genome Editing in Agriculture. Between Precaution and Responsibility. Nomos. ISBN 978-3-8487-5518-9. Pp. 181–198.</li>
 <li>Bartkowski, B., Hansjürgens, B., 2019. Risk and uncertainty as source of economic value of biodiversity and ecosystem services, in: Schröter, M., Bonn, A., Klotz, S., Baeßler, C. (Eds.), Atlas of Ecosystem Services: Drivers, Risks, and Societal Responses. Springer, Dodrecht, New York. ISBN 978-3-319-96229-0. Pp. 21–24.</li>
+<li>Hansjürgens, B., Möckel, S., Bartkowski, B., 2019. Boden und Bodenschutz als zentrales Handlungsfeld der Umweltpolitik, in: Dabrowski, M., Wolf, J., Abmeier, K. (Eds.), Umweltpolitik: global und gerecht. Ferdinand Schöningh: Paderborn. ISBN 978-3-506-70576-1. Pp. 111–144.</li>
 <li>Pirscher, F., Bartkowski, B., Theesfeld, I., Timaeus, J., 2018. Nature-identical outcomes, artificial processes: Governance of CRISPR/Cas genome editing as an ethical challenge, in: James, H.S. (Ed.), Ethical Tensions from New Technology: The Case of Agricultural Biotechnology. CABI, Oxfordshire, Boston. ISBN 978-1-78639-464-4. Pp. 137–150.</li>
 <li>Strunz, S., Bartkowski, B., Schindler, H., 2017. Is there a monetary growth imperative?, in: Victor, P., Dolter, B. (Eds.), Handbook on Growth and Sustainability. Edward Elgar, Cheltenham. ISBN 978-1-78347-355-7. Pp. 460–503.</li>
 <li>Bartkowski, B., 2015. Ein Konzept zur ökonomischen Bewertung der Biodiversität, in: Feit, U., Korn, H. (Eds.), Treffpunkt Biologische Vielfalt XIV: Aktuelle Forschung im Rahmen des Übereinkommens über die Biologische Vielfalt vorgestellt auf einer wissenschaftlichen Expertentagung an der Internationalen Naturschutzakademie Insel Vilm vom 25.-29. August 2014, BfN-Skripten. Bundesamt für Naturschutz, Bonn.</li>
@@ -59,7 +60,7 @@ If you are interested in any of my publications, but don't have access to it - f
 </ol>
 #### Conference papers, presentations, posters:
 <ol>
-<li>•	Bartkowski, B., Bartke, S. Insights from behavioural research on farmers for agri-environmental policy. 168th EAAE Seminar “Behavioural Perspectives in Agricultural Economics and Management” 2019, Uppsala.</li>
+<li>Bartkowski, B., Bartke, S. Insights from behavioural research on farmers for agri-environmental policy. 168th EAAE Seminar “Behavioural Perspectives in Agricultural Economics and Management” 2019, Uppsala.</li>
 <li>Bartkowski, B., Bartke, S. Leverage points for soil governance: a synthesis of empirical studies of farmers’ decision making. BonaRes 2018, Berlin.</li>
 <li>Bartkowski, B., Bartke, S. Imprecisely unsustainable: Towards site-specific soil governance for a sustainable bioeconomy – The case of Germany [Poster]. BonaRes 2018, Berlin.</li>
 <li>Bartkowski, B. Existence value, biodiversity, and the utilitarian dilemma. ESEE 2017, Budapest.</li>

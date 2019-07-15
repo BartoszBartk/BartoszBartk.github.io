@@ -5,11 +5,13 @@ description: Bartosz Bartkowski is an environmental economist at UFZ - Helmholtz
 keywords: environmental economics, agri-environmental policy, soil governance, ecological economics
 ---
 
-I am an environmental economist at UFZ - Helmholtz Centre for Environmental Research in Leipzig, Germany. I did my PhD (Dr. rer. pol.) in environmental economics at the Martin Luther University Halle-Wittenberg in 2017. The topic of my PhD was the economic valuation of biodiversity, with a special focus on deliberative monetary valuation. Currently, I am working mainly on land-use, especially agri-environmental policy. I have rather diverse research interests and have also worked and published on ecosystem service trade-offs, ecosystem services & property rights, farmers' behaviour, governance and ethics of genome-edited food, growth imperatives and the democratic deficits in the degrowth debate. So far, I have worked almost exclusively conceptually and qualitatively, but I am currently in the process of acquiring and (soon) applying skills in agent-based modelling as a way of analysis of agri-environmental land-use policy.
+I am an environmental economist at UFZ - Helmholtz Centre for Environmental Research in Leipzig, Germany. My research focus is on the economic analysis of agri-environmental policy instruments. In particular, I look at the effectiveness and efficiency of various designs of agri-environmental payment schemes. In this context, I am interested in the emerging landscape-level patterns given realistic descriptions of farmers' behaviour and institutional settings. Much of my work has been conceptual and qualitative, but I have recently expanded my tool box to include agent-based modelling and, to a more limited extent, choice experiments.
+
+I did my PhD (Dr. rer. pol.) in environmental economics at the Martin Luther University Halle-Wittenberg in 2017. The topic of my PhD was the economic valuation of biodiversity, with a special focus on deliberative monetary valuation. Between the topic of my PhD and my current focus, I have rather diverse research interests and have also worked and published on ecosystem service trade-offs, ecosystem services & property rights, farmers' behavioural characteristics, governance and ethics of genome-edited food, growth imperatives and the democratic deficits in the degrowth debate. Check out my publication list and the <a href="https://bartoszbartk.github.io/pages/research.html">Research</a> tab for more information and detail.
+
+While working at a research-only centre, I have some teaching experience, including a course on conservation economics (Naturschutzökonomik) that I have been giving at the Hochschule Anhalt in Bernburg since 2017.
 
 Before discovering economics I did my bachelor's in cultural studies (focus on Russia and ex-Yugoslavia). I am married and father of two. In my free time I enjoy drinking tea, listening to jazz, reading (philosophy, SF and fantasy) and watching arthouse films.
-
-I am not on the job market right now. Just showing off.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
