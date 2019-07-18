@@ -28,11 +28,6 @@ If you are interested in any of my publications, but don't have access to it - f
 <li>Lienhoop, N., Bartkowski, B., Hansjürgens, B., 2015. Informing biodiversity policy: The role of economic valuation, deliberative institutions and deliberative monetary valuation. Environmental Science & Policy 54, 522–532. doi:<a href="https://doi.org/10.1016/j.envsci.2015.01.007">10.1016/j.envsci.2015.01.007</a></li>
 <li>Iliopoulos, C.N., Valentinov, V., Kvartiuk, V., Bartkowski, B., 2013. Government–third sector relations in European rural development: A critical perspective. Nonprofit Policy Forum 4, 65–80. doi:<a href="https://doi.org/10.1515/npf-2013-0001">10.1515/npf-2013-0001</a></li>
 </ol>
-#### Other journals:
-<ol>
-<li>Bartkowski, B., 2018. Nach uns die Sintflut? Degrowth und die Suche nach Alternativen zum Wachstumsparadigma. Hirschberg 71, 428–431.</li>
-<li>Schindler, H., Strunz, S., Bartkowski, B., 2017. Am Gelde hängt doch alles? – Mythos monetärer Wachstumszwang. Ökologisches Wirtschaften 32, 23–25.</li>
-</ol>
 #### Books:
 <ol>
 <li>Bartkowski, B., 2017. Economic Valuation of Biodiversity: An Interdisciplinary Conceptual Perspective. Routledge, New York. ISBN 978-1-138-03936-0.</li>
@@ -45,6 +40,16 @@ If you are interested in any of my publications, but don't have access to it - f
 <li>Pirscher, F., Bartkowski, B., Theesfeld, I., Timaeus, J., 2018. Nature-identical outcomes, artificial processes: Governance of CRISPR/Cas genome editing as an ethical challenge, in: James, H.S. (Ed.), Ethical Tensions from New Technology: The Case of Agricultural Biotechnology. CABI, Oxfordshire, Boston. ISBN 978-1-78639-464-4. Pp. 137–150.</li>
 <li>Strunz, S., Bartkowski, B., Schindler, H., 2017. Is there a monetary growth imperative?, in: Victor, P., Dolter, B. (Eds.), Handbook on Growth and Sustainability. Edward Elgar, Cheltenham. ISBN 978-1-78347-355-7. Pp. 460–503.</li>
 <li>Bartkowski, B., 2015. Ein Konzept zur ökonomischen Bewertung der Biodiversität, in: Feit, U., Korn, H. (Eds.), Treffpunkt Biologische Vielfalt XIV: Aktuelle Forschung im Rahmen des Übereinkommens über die Biologische Vielfalt vorgestellt auf einer wissenschaftlichen Expertentagung an der Internationalen Naturschutzakademie Insel Vilm vom 25.-29. August 2014, BfN-Skripten. Bundesamt für Naturschutz, Bonn.</li>
+</ol>
+#### Encyclopaedia entries:
+<ol>
+<li>Bartkowski, B., Lienhoop, N. Deliberative Monetary Valuation, in: Oxford Research Encyclopedia in Environmental Science, section Environmental Economics. doi:<a href="https://doi.org/10.1093/acrefore/9780199389414.013.595">10.1093/acrefore/9780199389414.013.595</a></li>
+<li>Bartkowski, B. Valuation of Biodiversity, in: Oxford Research Encyclopedia of Environmental Science, section Environmental Economics. doi:<a href="https://doi.org/10.1093/acrefore/9780199389414.013.459">10.1093/acrefore/9780199389414.013.459</a></li>
+</ol>
+#### Other journals:
+<ol>
+<li>Bartkowski, B., 2018. Nach uns die Sintflut? Degrowth und die Suche nach Alternativen zum Wachstumsparadigma. Hirschberg 71, 428–431.</li>
+<li>Schindler, H., Strunz, S., Bartkowski, B., 2017. Am Gelde hängt doch alles? – Mythos monetärer Wachstumszwang. Ökologisches Wirtschaften 32, 23–25.</li>
 </ol>
 #### Discussion papers:
 <ol>
