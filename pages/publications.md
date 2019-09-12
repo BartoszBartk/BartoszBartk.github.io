@@ -53,6 +53,7 @@ If you are interested in any of my publications, but don't have access to it - f
 </ol>
 #### Discussion papers:
 <ol>
+<li>Bartkowski, B., Droste, N., Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V., 2019. Implementing result-based agri-environmental payments by means of modelling. UFZ Discussion Paper 2019-05. <a href="https://arxiv.org/abs/1908.08219">arXiv:1908.08219</a>.</li>
 <li>Strunz, S., Bartkowski, B., 2017. Degrowth, modernity, and the open society. UFZ Discussion Paper 2017-07.</li>
 <li>Bartkowski, B., 2017. Existence value, biodiversity, and the utilitarian dilemma. UFZ Discussion Paper 2017-02.</li>
 <li>Bartkowski, B., 2016. Are diverse ecosystems more valuable? A conceptual framework for economic valuation of biodiversity. UFZ Discussion Paper 2016-09.</li>
