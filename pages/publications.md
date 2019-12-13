@@ -28,6 +28,16 @@ If you are interested in any of my publications, but don't have access to it - f
 <li>Lienhoop, N., Bartkowski, B., Hansjürgens, B., 2015. Informing biodiversity policy: The role of economic valuation, deliberative institutions and deliberative monetary valuation. Environmental Science & Policy 54, 522–532. doi:<a href="https://doi.org/10.1016/j.envsci.2015.01.007">10.1016/j.envsci.2015.01.007</a></li>
 <li>Iliopoulos, C.N., Valentinov, V., Kvartiuk, V., Bartkowski, B., 2013. Government–third sector relations in European rural development: A critical perspective. Nonprofit Policy Forum 4, 65–80. doi:<a href="https://doi.org/10.1515/npf-2013-0001">10.1515/npf-2013-0001</a></li>
 </ol>
+#### Papers in the pipeline:
+<ol>
+<li>Bartkowski, B., Bartke, S., Helming, K., Paul, C., Techen, A., Hansjürgens, B. Potential of economic valuation of soil-based ecosystem services to inform sustainable soil management and policy. Under review.</li>
+<li>Bartkowski, B., Droste, N., Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. Payments by modelled results: a novel design for agri-environmental schemes. Under review.</li>
+<li>D'Amato, D., Bartkowski, B., Droste, N. Bioeconomy and ecosystem services: a comprehensive review of the literature. Under review.</li>
+<li>Kaim, A., Bartkowski, B., Lienhoop, N., Schröter-Schlaack, C., Strauch, M., Volk, M. Informing land use allocation by combining ecological optimization with economic preference analysis. Under review.</li>
+<li>Droste, N., Bartkowski, B., Finger, R. Hot topics in agricultural and environmental economics – assessing trends and content through a large-scale bibliometric analysis. In preparation.</li>
+<li>Bartkowski, B., Beckmann, M., Drechsler, M., Dreßler, G., Kaim, A., Liebelt, V., Müller, B., Witing, F., Strauch, M. Economic, political and social feasibility of biophysically optimal landscapes. In preparation.</li>
+<li>Bartkowski, B., Bartke, S., Hagemann, N., Hansjürgens, B., Schröter-Schlaack, C. Disruptions in agricultural soil governance in Germany: a constructive analysis of the policy mix. In preparation.</li>
+</ol>
 #### Books:
 <ol>
 <li>Bartkowski, B., 2017. Economic Valuation of Biodiversity: An Interdisciplinary Conceptual Perspective. Routledge, New York. ISBN 978-1-138-03936-0.</li>
@@ -39,7 +49,6 @@ If you are interested in any of my publications, but don't have access to it - f
 <li>Hansjürgens, B., Möckel, S., Bartkowski, B., 2019. Boden und Bodenschutz als zentrales Handlungsfeld der Umweltpolitik, in: Dabrowski, M., Wolf, J., Abmeier, K. (Eds.), Umweltpolitik: global und gerecht. Ferdinand Schöningh: Paderborn. ISBN 978-3-506-70576-1. Pp. 111–144.</li>
 <li>Pirscher, F., Bartkowski, B., Theesfeld, I., Timaeus, J., 2018. Nature-identical outcomes, artificial processes: Governance of CRISPR/Cas genome editing as an ethical challenge, in: James, H.S. (Ed.), Ethical Tensions from New Technology: The Case of Agricultural Biotechnology. CABI, Oxfordshire, Boston. ISBN 978-1-78639-464-4. Pp. 137–150.</li>
 <li>Strunz, S., Bartkowski, B., Schindler, H., 2017. Is there a monetary growth imperative?, in: Victor, P., Dolter, B. (Eds.), Handbook on Growth and Sustainability. Edward Elgar, Cheltenham. ISBN 978-1-78347-355-7. Pp. 460–503.</li>
-<li>Bartkowski, B., 2015. Ein Konzept zur ökonomischen Bewertung der Biodiversität, in: Feit, U., Korn, H. (Eds.), Treffpunkt Biologische Vielfalt XIV: Aktuelle Forschung im Rahmen des Übereinkommens über die Biologische Vielfalt vorgestellt auf einer wissenschaftlichen Expertentagung an der Internationalen Naturschutzakademie Insel Vilm vom 25.-29. August 2014, BfN-Skripten. Bundesamt für Naturschutz, Bonn.</li>
 </ol>
 #### Encyclopaedia entries:
 <ol>
@@ -64,19 +73,6 @@ If you are interested in any of my publications, but don't have access to it - f
 <li>van der Meulen, S., Maring, L., Bartkowski, B., et al. 2018. Mapping and Assessment of Ecosystems and their Services: Soil ecosystems. DG Environment.</li>
 <li>Förster, J., Schmidt, S., Bartkowski, B., Lienhoop, N., Albert, C., Wittmer, H., 2016. Sachstandsbericht AP 2: Schätzung der Umweltkosten infolge Schädigung oder Zerstörung von Ökosystemen und Biodiversitätsverlust. Methodenkonvention 3.0 – Weiterentwicklung und Erweiterung der Methodenkonvention zur Schätzung von Umweltkosten. Umweltbundesamt.</li>
 </ol>
-#### Conference papers, presentations, posters:
-<ol>
-<li>Bartkowski, B., Bartke, S. Insights from behavioural research on farmers for agri-environmental policy. 168th EAAE Seminar “Behavioural Perspectives in Agricultural Economics and Management” 2019, Uppsala.</li>
-<li>Bartkowski, B., Bartke, S. Leverage points for soil governance: a synthesis of empirical studies of farmers’ decision making. BonaRes 2018, Berlin.</li>
-<li>Bartkowski, B., Bartke, S. Imprecisely unsustainable: Towards site-specific soil governance for a sustainable bioeconomy – The case of Germany [Poster]. BonaRes 2018, Berlin.</li>
-<li>Bartkowski, B. Existence value, biodiversity, and the utilitarian dilemma. ESEE 2017, Budapest.</li>
-<li>Bartkowski, B., Hagemann, N., Bartke, S. Soil governance between bioeconomy and sustainability goals. ESEE 2017, Budapest.</li>
-<li>Bartkowski, B. Are diverse ecosystems more valuable? A conceptual framework of the economic value of biodiversity and its estimation. BIOECON 2016, Cambridge.</li>
-<li>Bartkowski, B., Lienhoop, N. Beyond rationality, towards reasonableness: Deliberative Monetary Valuation and Amartya Sen’s approach to rationality. AES 2016, Warwick.</li>
-<li>Bartkowski, B. Are diverse ecosystems more valuable? A conceptual framework for the economic valuation of biodiversity. AES 2016, Warwick.</li>
-<li>Bartkowski, B. The economic value of biodiversity: A conceptual framework. AURÖ Workshop 2016, Leipzig.</li>
-<li>Bartkowski, B. Biodiversity’s contribution to the economic value of ecosystems. FFU PhD Conference 2015, Berlin.</li>
-</ol>
 #### Blogs etc.:
 <ol>
 <li>Regular contributions on <a href="https://skeptischeoekonomie.wordpress.com">Skeptische Ökonomie</a></li>
@@ -88,5 +84,5 @@ If you are interested in any of my publications, but don't have access to it - f
 <li><a href="https://scilogs.spektrum.de/umweltforsch/oekonomische-bewertung-natur-wurzel-boesen/">Ökonomische Bewertung der Natur – die Wurzel alles Bösen?</a> Umweltforsch, UFZ, 2014</li>
 </ol>
 #### Reviewer activity:
-Science Advances, Nature Communications, Environmental Values, Environmental Policy and Governance, Regional Environmental Change, Sustainability, Journal of Environmental Planning and Management, Ecosystems and People (formerly International Journal of Biodiversity Science, Ecosystem Services & Management), Behavioral Public Policy, Journal of Applied Ecology, Public Administration, Ecosystem Services, Ecological Economics, Biological Conservation, Ocean & Coastal Management, Journal of Environmental Management
+Science Advances, Nature Communications, Environmental Values, Environmental Policy and Governance, Regional Environmental Change, Sustainability, Journal of Environmental Planning and Management, Ecosystems and People (formerly International Journal of Biodiversity Science, Ecosystem Services & Management), Behavioral Public Policy, Journal of Applied Ecology, Public Administration, Land Use Policy, Ecosystem Services, Ecological Economics, Biological Conservation, Ocean & Coastal Management, Journal of Environmental Management
 <a href="https://publons.com/author/1270943/bartosz-bartkowski#profile">Publons profile</a>
