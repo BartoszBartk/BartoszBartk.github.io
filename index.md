@@ -1,11 +1,11 @@
----
+﻿---
 layout: frontpage
 title: Bartosz Bartkowski
 description: Bartosz Bartkowski is an environmental economist at UFZ - Helmholtz Centre for Environmental Research.
 keywords: environmental economics, agri-environmental policy, soil governance, ecological economics
 ---
 
-I am an environmental economist at UFZ - Helmholtz Centre for Environmental Research in Leipzig, Germany. My research focus is on the economic analysis of agri-environmental policy instruments. In particular, I look at the effectiveness and efficiency of various designs of agri-environmental payment schemes. In this context, I am interested in the emerging landscape-level patterns given realistic descriptions of farmers' behaviour and institutional settings. Much of my work has been conceptual and qualitative, but I have recently expanded my tool box to include agent-based modelling and, to a more limited extent, choice experiments.
+I am an environmental economist at UFZ - Helmholtz Centre for Environmental Research in Leipzig, Germany. My research focus is on the economic analysis of agri-environmental policy instruments as means to navigate ecosystem service trade-offs in multifunctional landscapes. In this context, I am particularly interested in identifying policy instruments and instrument mixes allowing to align societal preferences with biophysical potential of landscapes to provide multiple ecosystem services. Here, the mutual relationship between regulatory and incentive-based instruments is of much interest. Using agent-based modelling, but also more qualitative approaches, I look at the emerging landscape-level patterns that result from various policy mixes given realistic descriptions of farmers' behaviour and institutional settings.
 
 I did my PhD (Dr. rer. pol.) in environmental economics at the Martin Luther University Halle-Wittenberg in 2017. The topic of my PhD was the economic valuation of biodiversity, with a special focus on deliberative monetary valuation. Between the topic of my PhD and my current focus, I have rather diverse research interests and have also worked and published on ecosystem service trade-offs, ecosystem services & property rights, farmers' behavioural characteristics, governance and ethics of genome-edited food, growth imperatives and the democratic deficits in the degrowth debate. Check out my publication list and the <a href="https://bartoszbartk.github.io/pages/research.html">Research</a> tab for more information and detail.
 

@@ -7,6 +7,7 @@ If you are interested in any of my publications, but don't have access to it - f
 
 #### Peer-reviewed journals:
 <ol>
+<li>Bartkowski, B., Bartke, S., Helming, K., Paul, C., Techen, A., Hansjürgens, B., in press. Potential of economic valuation of soil-based ecosystem services to inform sustainable soil management and policy. PeerJ.</li>
 <li>Bartkowski, B., Baum, C.M., 2019. Dealing with rejection: An application of the exit–voice framework to genome-edited food. Frontiers in Bioengineering and Biotechnology 7. doi:<a href="https://doi.org/10.3389/fbioe.2019.00057">10.3389/fbioe.2019.00057</a></li>
 <li>Förster, J., Schmidt, S., Bartkowski, B., Lienhoop, N., Albert, C., Wittmer, H., 2019. Incorporating environmental costs of ecosystem service loss in political decision making: A synthesis of monetary values for Germany. PLOS ONE 14(2): e0211419. doi:<a href="https://doi.org/10.1371/journal.pone.0211419">10.1371/journal.pone.0211419</a></li>
 <li>Schaafsma, M., Bartkowski, B., Lienhoop, N., 2018. Guidance for Deliberative Monetary Valuation studies. International Review of Environmental and Resource Economics 12(2-3): 267–323. doi:<a href="https://doi.org/10.1561/101.00000103">10.1561/101.00000103</a></li>
@@ -30,7 +31,6 @@ If you are interested in any of my publications, but don't have access to it - f
 </ol>
 #### Papers in the pipeline:
 <ol>
-<li>Bartkowski, B., Bartke, S., Helming, K., Paul, C., Techen, A., Hansjürgens, B. Potential of economic valuation of soil-based ecosystem services to inform sustainable soil management and policy. Under review.</li>
 <li>Bartkowski, B., Droste, N., Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. Payments by modelled results: a novel design for agri-environmental schemes. Under review.</li>
 <li>D'Amato, D., Bartkowski, B., Droste, N. Bioeconomy and ecosystem services: a comprehensive review of the literature. Under review.</li>
 <li>Kaim, A., Bartkowski, B., Lienhoop, N., Schröter-Schlaack, C., Strauch, M., Volk, M. Informing land use allocation by combining ecological optimization with economic preference analysis. Under review.</li>
@@ -44,16 +44,14 @@ If you are interested in any of my publications, but don't have access to it - f
 </ol>
 #### Book chapters:
 <ol>
+<li>Schaafsma, M., Bartkowski, B., in press. Synergies and trade-offs between ecosystem services, in: Leal Filho, W., Gökçin Özuyar, P., Pace, P.J., Marisa Azul, A., Londero Brandli, L., Wall, T. (Eds.), Encyclopedia of the UN Sustainable Development Goals. Life on Land.</li>
+<li>Bartkowski, B., Lienhoop, N., 2019. Deliberative Monetary Valuation, in: Oxford Research Encyclopedia in Environmental Science, section Environmental Economics. doi:<a href="https://doi.org/10.1093/acrefore/9780199389414.013.595">10.1093/acrefore/9780199389414.013.595</a></li>
+<li>Bartkowski, B., 2019. Valuation of Biodiversity, in: Oxford Research Encyclopedia of Environmental Science, section Environmental Economics. doi:<a href="https://doi.org/10.1093/acrefore/9780199389414.013.459">10.1093/acrefore/9780199389414.013.459</a></li>
 <li>Bartkowski, B., 2019. CRISPR/Cas, Precaution and Democracy: The Challenging Governance of a Rapidly Changing Technology, in: Dürnberger, C., Pfeilmeier, S., Schleissing, S. (Eds.), Genome Editing in Agriculture. Between Precaution and Responsibility. Nomos. ISBN 978-3-8487-5518-9. Pp. 181–198.</li>
 <li>Bartkowski, B., Hansjürgens, B., 2019. Risk and uncertainty as source of economic value of biodiversity and ecosystem services, in: Schröter, M., Bonn, A., Klotz, S., Baeßler, C. (Eds.), Atlas of Ecosystem Services: Drivers, Risks, and Societal Responses. Springer, Dodrecht, New York. ISBN 978-3-319-96229-0. Pp. 21–24.</li>
 <li>Hansjürgens, B., Möckel, S., Bartkowski, B., 2019. Boden und Bodenschutz als zentrales Handlungsfeld der Umweltpolitik, in: Dabrowski, M., Wolf, J., Abmeier, K. (Eds.), Umweltpolitik: global und gerecht. Ferdinand Schöningh: Paderborn. ISBN 978-3-506-70576-1. Pp. 111–144.</li>
 <li>Pirscher, F., Bartkowski, B., Theesfeld, I., Timaeus, J., 2018. Nature-identical outcomes, artificial processes: Governance of CRISPR/Cas genome editing as an ethical challenge, in: James, H.S. (Ed.), Ethical Tensions from New Technology: The Case of Agricultural Biotechnology. CABI, Oxfordshire, Boston. ISBN 978-1-78639-464-4. Pp. 137–150.</li>
 <li>Strunz, S., Bartkowski, B., Schindler, H., 2017. Is there a monetary growth imperative?, in: Victor, P., Dolter, B. (Eds.), Handbook on Growth and Sustainability. Edward Elgar, Cheltenham. ISBN 978-1-78347-355-7. Pp. 460–503.</li>
-</ol>
-#### Encyclopaedia entries:
-<ol>
-<li>Bartkowski, B., Lienhoop, N. Deliberative Monetary Valuation, in: Oxford Research Encyclopedia in Environmental Science, section Environmental Economics. doi:<a href="https://doi.org/10.1093/acrefore/9780199389414.013.595">10.1093/acrefore/9780199389414.013.595</a></li>
-<li>Bartkowski, B. Valuation of Biodiversity, in: Oxford Research Encyclopedia of Environmental Science, section Environmental Economics. doi:<a href="https://doi.org/10.1093/acrefore/9780199389414.013.459">10.1093/acrefore/9780199389414.013.459</a></li>
 </ol>
 #### Other journals:
 <ol>
