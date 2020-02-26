@@ -31,6 +31,7 @@ If you are interested in any of my publications, but don't have access to it - f
 </ol>
 #### Papers in the pipeline:
 <ol>
+<li>Baum, C.M., Bartkowski, B. Project-ion Bias: Solutions for transforming the structure and culture of interdisciplinary collaborations in sustainability research. Under review.</li>
 <li>Bartkowski, B., Droste, N., Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. Payments by modelled results: a novel design for agri-environmental schemes. Under review.</li>
 <li>D'Amato, D., Bartkowski, B., Droste, N. Bioeconomy and ecosystem services: a comprehensive review of the literature. Under review.</li>
 <li>Kaim, A., Bartkowski, B., Lienhoop, N., Schröter-Schlaack, C., Strauch, M., Volk, M. Informing land use allocation by combining ecological optimization with economic preference analysis. Under review.</li>
