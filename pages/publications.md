@@ -7,7 +7,7 @@ If you are interested in any of my publications, but don't have access to it - f
 
 #### Peer-reviewed journals:
 <ol>
-<li>Bartkowski, B., Bartke, S., Helming, K., Paul, C., Techen, A., Hansjürgens, B., in press. Potential of economic valuation of soil-based ecosystem services to inform sustainable soil management and policy. PeerJ.</li>
+<li>Bartkowski, B., Bartke, S., Helming, K., Paul, C., Techen, A., Hansjürgens, B., 2020. Potential of economic valuation of soil-based ecosystem services to inform sustainable soil management and policy. PeerJ 8: e8749. doi:<a href="https://doi.org/10.7717/peerj.8749">10.7717/peerj.8749</a></li>
 <li>Bartkowski, B., Baum, C.M., 2019. Dealing with rejection: An application of the exit–voice framework to genome-edited food. Frontiers in Bioengineering and Biotechnology 7. doi:<a href="https://doi.org/10.3389/fbioe.2019.00057">10.3389/fbioe.2019.00057</a></li>
 <li>Förster, J., Schmidt, S., Bartkowski, B., Lienhoop, N., Albert, C., Wittmer, H., 2019. Incorporating environmental costs of ecosystem service loss in political decision making: A synthesis of monetary values for Germany. PLOS ONE 14(2): e0211419. doi:<a href="https://doi.org/10.1371/journal.pone.0211419">10.1371/journal.pone.0211419</a></li>
 <li>Schaafsma, M., Bartkowski, B., Lienhoop, N., 2018. Guidance for Deliberative Monetary Valuation studies. International Review of Environmental and Resource Economics 12(2-3): 267–323. doi:<a href="https://doi.org/10.1561/101.00000103">10.1561/101.00000103</a></li>
@@ -35,8 +35,8 @@ If you are interested in any of my publications, but don't have access to it - f
 <li>Bartkowski, B., Droste, N., Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. Payments by modelled results: a novel design for agri-environmental schemes. Under review.</li>
 <li>D'Amato, D., Bartkowski, B., Droste, N. Bioeconomy and ecosystem services: a comprehensive review of the literature. Under review.</li>
 <li>Kaim, A., Bartkowski, B., Lienhoop, N., Schröter-Schlaack, C., Strauch, M., Volk, M. Informing land use allocation by combining ecological optimization with economic preference analysis. Under review.</li>
+<li>Bartkowski, B., Beckmann, M., Drechsler, M., Kaim, A., Liebelt, V., Müller, B., Witing, F., Strauch, M. Economic, political and social feasibility of biophysically optimal landscapes. Under review.</li>
 <li>Droste, N., Bartkowski, B., Finger, R. Hot topics in agricultural and environmental economics – assessing trends and content through a large-scale bibliometric analysis. In preparation.</li>
-<li>Bartkowski, B., Beckmann, M., Drechsler, M., Dreßler, G., Kaim, A., Liebelt, V., Müller, B., Witing, F., Strauch, M. Economic, political and social feasibility of biophysically optimal landscapes. In preparation.</li>
 <li>Bartkowski, B., Bartke, S., Hagemann, N., Hansjürgens, B., Schröter-Schlaack, C. Disruptions in agricultural soil governance in Germany: a constructive analysis of the policy mix. In preparation.</li>
 </ol>
 #### Books:
@@ -45,7 +45,7 @@ If you are interested in any of my publications, but don't have access to it - f
 </ol>
 #### Book chapters:
 <ol>
-<li>Schaafsma, M., Bartkowski, B., in press. Synergies and trade-offs between ecosystem services, in: Leal Filho, W., Gökçin Özuyar, P., Pace, P.J., Marisa Azul, A., Londero Brandli, L., Wall, T. (Eds.), Encyclopedia of the UN Sustainable Development Goals. Life on Land.</li>
+<li>Schaafsma, M., Bartkowski, B., 2020. Synergies and trade-offs between ecosystem services, in: Leal Filho, W., Gökçin Özuyar, P., Pace, P.J., Marisa Azul, A., Londero Brandli, L., Wall, T. (Eds.), Encyclopedia of the UN Sustainable Development Goals. Life on Land. doi:<a href="https://doi.org/10.1007/978-3-319-71065-5_117-1">10.1007/978-3-319-71065-5_117-1</a></li>
 <li>Bartkowski, B., Lienhoop, N., 2019. Deliberative Monetary Valuation, in: Oxford Research Encyclopedia in Environmental Science, section Environmental Economics. doi:<a href="https://doi.org/10.1093/acrefore/9780199389414.013.595">10.1093/acrefore/9780199389414.013.595</a></li>
 <li>Bartkowski, B., 2019. Valuation of Biodiversity, in: Oxford Research Encyclopedia of Environmental Science, section Environmental Economics. doi:<a href="https://doi.org/10.1093/acrefore/9780199389414.013.459">10.1093/acrefore/9780199389414.013.459</a></li>
 <li>Bartkowski, B., 2019. CRISPR/Cas, Precaution and Democracy: The Challenging Governance of a Rapidly Changing Technology, in: Dürnberger, C., Pfeilmeier, S., Schleissing, S. (Eds.), Genome Editing in Agriculture. Between Precaution and Responsibility. Nomos. ISBN 978-3-8487-5518-9. Pp. 181–198.</li>
@@ -83,5 +83,5 @@ If you are interested in any of my publications, but don't have access to it - f
 <li><a href="https://scilogs.spektrum.de/umweltforsch/oekonomische-bewertung-natur-wurzel-boesen/">Ökonomische Bewertung der Natur – die Wurzel alles Bösen?</a> Umweltforsch, UFZ, 2014</li>
 </ol>
 #### Reviewer activity:
-Science Advances, Nature Communications, Environmental Values, Environmental Policy and Governance, Regional Environmental Change, Sustainability, Journal of Environmental Planning and Management, Ecosystems and People (formerly International Journal of Biodiversity Science, Ecosystem Services & Management), Behavioral Public Policy, Journal of Applied Ecology, Public Administration, Land Use Policy, Ecosystem Services, Ecological Economics, Biological Conservation, Ocean & Coastal Management, Journal of Environmental Management
+Science Advances, Nature Communications, Environmental Values, Land Use Policy, Ecosystem Services, Ecological Economics, Environmental Policy and Governance, Regional Environmental Change, Sustainability, Journal of Environmental Planning and Management, Ecosystems and People (formerly International Journal of Biodiversity Science, Ecosystem Services & Management), Behavioral Public Policy, Journal of Applied Ecology, Environmental Processes, Public Administration, International Journal of Environmental Research and Public Health, Biological Conservation, Ocean & Coastal Management, Journal of Environmental Management, Trends in Food Science and Technology
 <a href="https://publons.com/author/1270943/bartosz-bartkowski#profile">Publons profile</a>
