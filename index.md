@@ -9,7 +9,7 @@ I am an environmental economist at UFZ - Helmholtz Centre for Environmental Rese
 
 I did my PhD (Dr. rer. pol.) in environmental economics at the Martin Luther University Halle-Wittenberg in 2017. The topic of my PhD was the economic valuation of biodiversity, with a special focus on deliberative monetary valuation. Between the topic of my PhD and my current focus, I have rather diverse research interests and have also worked and published on ecosystem service trade-offs, ecosystem services & property rights, farmers' behavioural characteristics, governance and ethics of genome-edited food, growth imperatives and the democratic deficits in the degrowth debate. Check out my publication list and the <a href="https://bartoszbartk.github.io/pages/research.html">Research</a> tab for more information and detail.
 
-While working at a research-only centre, I have some teaching experience, including a course on conservation economics (Naturschutzökonomik) that I have been giving at the Hochschule Anhalt in Bernburg since 2017.
+While working at a research-only centre, I have some teaching experience, including a course on conservation economics (Naturschutzökonomik) that I have taught at the Hochschule Anhalt in Bernburg since 2017.
 
 Before discovering economics I did my bachelor's in cultural studies (focus on Russia and ex-Yugoslavia). I am married and father of two. In my free time I enjoy drinking tea, listening to jazz, reading (philosophy, SF and fantasy) and watching arthouse films.
 

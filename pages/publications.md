@@ -31,7 +31,7 @@ If you are interested in any of my publications, but don't have access to it - f
 </ol>
 #### Papers in the pipeline:
 <ol>
-<li>Baum, C.M., Bartkowski, B. Project-ion Bias: Solutions for transforming the structure and culture of interdisciplinary collaborations in sustainability research. Under review.</li>
+<li>Baum, C.M., Bartkowski, B. It’s not all about the funding: Solutions for fostering interdisciplinary collaborations in sustainability research. Under review.</li>
 <li>Bartkowski, B., Droste, N., Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. Payments by modelled results: a novel design for agri-environmental schemes. Under review.</li>
 <li>D'Amato, D., Bartkowski, B., Droste, N. Bioeconomy and ecosystem services: a comprehensive review of the literature. Under review.</li>
 <li>Kaim, A., Bartkowski, B., Lienhoop, N., Schröter-Schlaack, C., Strauch, M., Volk, M. Informing land use allocation by combining ecological optimization with economic preference analysis. Under review.</li>
@@ -83,5 +83,5 @@ If you are interested in any of my publications, but don't have access to it - f
 <li><a href="https://scilogs.spektrum.de/umweltforsch/oekonomische-bewertung-natur-wurzel-boesen/">Ökonomische Bewertung der Natur – die Wurzel alles Bösen?</a> Umweltforsch, UFZ, 2014</li>
 </ol>
 #### Reviewer activity:
-Science Advances, Nature Communications, Environmental Values, Land Use Policy, Ecosystem Services, Ecological Economics, Environmental Policy and Governance, Regional Environmental Change, Sustainability, Journal of Environmental Planning and Management, Ecosystems and People (formerly International Journal of Biodiversity Science, Ecosystem Services & Management), Behavioral Public Policy, Journal of Applied Ecology, Environmental Processes, Public Administration, International Journal of Environmental Research and Public Health, Biological Conservation, Ocean & Coastal Management, Journal of Environmental Management, Trends in Food Science and Technology
+Behavioral Public Policy, Biological Conservation, Ecological Economics, Ecosystem Services, Ecosystems and People (formerly International Journal of Biodiversity Science, Ecosystem Services & Management), Environmental Policy and Governance, Environmental Processes, Environmental Values, International Journal of Environmental Research and Public Health, Journal of Applied Ecology, Journal of Environmental Planning and Management, Journal of Environmental Management, Land Use Policy, Nature Communications, Ocean & Coastal Management, Public Administration, Regional Environmental Change, Science Advances, Sustainability, Trends in Food Science and Technology
 <a href="https://publons.com/author/1270943/bartosz-bartkowski#profile">Publons profile</a>
