@@ -7,16 +7,16 @@ code {
 }
 
 a code {
-    color: #slateblue;
+    color: #fff2f2f2;
 }
 
 a {
-    color: #slateblue;
+    color: #fff2f2f2;
 }
 
 a:hover {
     color: darkslateblue;
-    background-color: #e3e4fa;
+    background-color: #cccc00;
     text-decoration: none;
 }
 
@@ -26,9 +26,9 @@ a img {
 
 a:hover img {
     color: darkslateblue;
-    background-color: #e3e4fa;
+    background-color: #cccc00;
     text-decoration: none;
-    border: solid 2px #e3e4fa;
+    border: solid 2px #cccc00;
 }
 
 p.center {
