@@ -15,7 +15,7 @@ a {
 }
 
 a:hover {
-    color: darkslateblue;
+    color: black;
     background-color: #cccc00;
     text-decoration: none;
 }
@@ -78,7 +78,6 @@ h1, h2, h3, h4 {
     border-left: 6px solid #2196F3;
     padding-left: 10px;
 }
-
 
 .warning {
     background-color: #ffffcc;
