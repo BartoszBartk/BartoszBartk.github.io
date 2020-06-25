@@ -42,7 +42,7 @@ Before discovering economics I did my bachelor's in cultural studies (focus on R
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/BartoszBartk">GitHub</a></li>
           <li><a href="https://twitter.com/BARBARtkowski">Twitter (@BARBARtkowski)</a></li>
-		  <li><a href="https://skeptischeoekonomie.wordpress.com">Blog (de)</a></li>
+		  <li><a href="https://skeptischeoekonomie.net">Blog (de)</a></li>
       </ul>
   </div>
 </div>
