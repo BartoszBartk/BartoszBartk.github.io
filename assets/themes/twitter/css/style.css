@@ -7,7 +7,10 @@
   margin: 30px 0; }
 
 .navbar .nav {
-  float: right; }
+  float: right;
+	text-shadow:none;
+	color:black;
+	}
 
 /* posts index */
 .post > h3.title {
