@@ -7,6 +7,8 @@ If you are interested in any of my publications, but don't have access to it - f
 
 #### Peer-reviewed journals:
 <ul>
+<li>Baum, C.M., <b>Bartkowski, B.,</b> in press. It’s not all about funding: Fostering interdisciplinary collaborations in sustainability research from a European perspective. Energy Research & Social Science.</li>
+<li>D’Amato, D., <b>Bartkowski, B.,</b> Droste, N., in press. Reviewing the interface of bioeconomy and ecosystem service research. Ambio.</li>
 <li><b>Bartkowski, B.,</b> Beckmann, M., Drechsler, M., Kaim, A., Liebelt, V., Müller, B., Witing, F., Strauch, M., 2020. Aligning agent-based modeling with multi-objective land-use allocation: Identification of policy gaps and feasible pathways to biophysically optimal landscapes. Frontiers in Environmental Science 8: e103. doi:<a href="https://doi.org/10.3389/fenvs.2020.00103">10.3389/fenvs.2020.00103</a></li>
 <li><b>Bartkowski, B.,</b> Bartke, S., Helming, K., Paul, C., Techen, A., Hansjürgens, B., 2020. Potential of economic valuation of soil-based ecosystem services to inform sustainable soil management and policy. PeerJ 8: e8749. doi:<a href="https://doi.org/10.7717/peerj.8749">10.7717/peerj.8749</a></li>
 <li><b>Bartkowski, B.,</b> Baum, C.M., 2019. Dealing with rejection: An application of the exit–voice framework to genome-edited food. Frontiers in Bioengineering and Biotechnology 7. doi:<a href="https://doi.org/10.3389/fbioe.2019.00057">10.3389/fbioe.2019.00057</a></li>
@@ -32,9 +34,7 @@ If you are interested in any of my publications, but don't have access to it - f
 </ul>
 #### Papers in the pipeline:
 <ul>
-<li>Baum, C.M., Bartkowski, B. It’s not all about the funding: Solutions for fostering interdisciplinary collaborations in sustainability research. Under review.</li>
 <li>Bartkowski, B., Droste, N., Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. Payments by modelled results: a novel design for agri-environmental schemes. Under review.</li>
-<li>D'Amato, D., Bartkowski, B., Droste, N. Bioeconomy and ecosystem services: a comprehensive review of the literature. Under review.</li>
 <li>Kaim, A., Bartkowski, B., Lienhoop, N., Schröter-Schlaack, C., Strauch, M., Volk, M. Informing land use allocation by combining ecological optimization with economic preference analysis. Under review.</li>
 <li>Droste, N., Bartkowski, B., Finger, R. Hot topics in agricultural and environmental economics – assessing trends and content through a large-scale bibliometric analysis. In preparation.</li>
 <li>Bartkowski, B., Bartke, S., Hagemann, N., Hansjürgens, B., Schröter-Schlaack, C. Disruptions in agricultural soil governance in Germany: a constructive analysis of the policy mix. In preparation.</li>
