@@ -7,8 +7,8 @@ If you are interested in any of my publications, but don't have access to it - f
 
 #### Peer-reviewed journals:
 <ul>
-<li>Baum, C.M., <b>Bartkowski, B.,</b> in press. It’s not all about funding: Fostering interdisciplinary collaborations in sustainability research from a European perspective. Energy Research & Social Science.</li>
 <li>D’Amato, D., <b>Bartkowski, B.,</b> Droste, N., in press. Reviewing the interface of bioeconomy and ecosystem service research. Ambio.</li>
+<li>Baum, C.M., <b>Bartkowski, B.,</b> 2020. It’s not all about funding: Fostering interdisciplinary collaborations in sustainability research from a European perspective. Energy Research & Social Science 70:101723. doi:<a href="https://doi.org/10.1016/j.erss.2020.101723">10.1016/j.erss.2020.101723</a></li>
 <li><b>Bartkowski, B.,</b> Beckmann, M., Drechsler, M., Kaim, A., Liebelt, V., Müller, B., Witing, F., Strauch, M., 2020. Aligning agent-based modeling with multi-objective land-use allocation: Identification of policy gaps and feasible pathways to biophysically optimal landscapes. Frontiers in Environmental Science 8: e103. doi:<a href="https://doi.org/10.3389/fenvs.2020.00103">10.3389/fenvs.2020.00103</a></li>
 <li><b>Bartkowski, B.,</b> Bartke, S., Helming, K., Paul, C., Techen, A., Hansjürgens, B., 2020. Potential of economic valuation of soil-based ecosystem services to inform sustainable soil management and policy. PeerJ 8: e8749. doi:<a href="https://doi.org/10.7717/peerj.8749">10.7717/peerj.8749</a></li>
 <li><b>Bartkowski, B.,</b> Baum, C.M., 2019. Dealing with rejection: An application of the exit–voice framework to genome-edited food. Frontiers in Bioengineering and Biotechnology 7. doi:<a href="https://doi.org/10.3389/fbioe.2019.00057">10.3389/fbioe.2019.00057</a></li>
