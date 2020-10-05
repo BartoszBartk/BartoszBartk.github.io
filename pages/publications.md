@@ -36,7 +36,7 @@ If you are interested in any of my publications, but don't have access to it - f
 <ul>
 <li>Bartkowski, B., Droste, N., Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. Payments by modelled results: a novel design for agri-environmental schemes. Under review.</li>
 <li>Kaim, A., Bartkowski, B., Lienhoop, N., Schröter-Schlaack, C., Strauch, M., Volk, M. Informing land use allocation by combining ecological optimization with economic preference analysis. Under review.</li>
-<li>Droste, N., Bartkowski, B., Finger, R. Hot topics in agricultural and environmental economics – assessing trends and content through a large-scale bibliometric analysis. In preparation.</li>
+<li>Droste, N., Bartkowski, B., Finger, R. Hot topics in agricultural and environmental economics – assessing trends and content through a large-scale bibliometric analysis. Under review.</li>
 <li>Bartkowski, B., Bartke, S., Hagemann, N., Hansjürgens, B., Schröter-Schlaack, C. Disruptions in agricultural soil governance in Germany: a constructive analysis of the policy mix. In preparation.</li>
 </ul>
 #### Books:
